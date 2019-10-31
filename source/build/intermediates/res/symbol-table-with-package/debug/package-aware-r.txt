@@ -1,0 +1,6 @@
+com.obs
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+string app_name
+style AppTheme
